@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alka
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Java (I'm a student at Brawijaya University)
+- 👀 I’m interested in AI dan Cloud Computing
+- 🌱 Student at Brawijaya University
 - 📫 How to reach me : IG: @alkadikna
 
 <!---
