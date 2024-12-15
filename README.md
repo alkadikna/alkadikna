@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alka
-- 👀 I’m interested in AI dan Cloud Computing
-- 🌱 Student at Brawijaya University
-- 📫 How to reach me : IG: @alkadikna
+- 🌱 CS and SE Student at Brawijaya University
+- 📫 How to reach me : IG: @alkadikna or email: mr.adikna@gmail.com
 
 <!---
 alkadikna/alkadikna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
