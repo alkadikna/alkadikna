@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  An Informatics Engineering student at Universitas Brawijaya with a passion for building scalable, end-to-end Machine Learning solutions.
+  A humble person with a passion for AI and Data.
 </p>
 
 ---
