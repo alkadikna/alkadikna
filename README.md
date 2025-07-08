@@ -64,13 +64,14 @@
 ---
 
 ### 🚀 My Projects
-*Berikut adalah beberapa proyek yang telah saya pin. Pastikan untuk mengunjungi repositori untuk detail lebih lanjut!*
+*Some of my project!*
 
 | Project Name | Short Description | Key Technologies |
 |--------------|-------------------|------------------|
 | **[Skinalyze](https://github.com/alkadikna/skin-type-detector)** | An AI-powered application to classify facial skin types from selfies using deep learning. | PyTorch, FastAPI, Docker, Kubernetes, OpenCV |
 | **[F1 Pit Stop Prediction](https://github.com/alkadikna/f1-pitstop-pipeline)** | An end-to-end data pipeline and ML model to predict F1 pit stop strategies. | Apache Spark, Airflow, LightGBM, Streamlit |
 | **[PTIIK-Insight](https://github.com/alkadikna/PTIIKInsight)** | An MLOps project for topic modeling on scientific journals using BERTopic and MLflow. | BERTopic, MLflow, Docker, Grafana, NLP |
+| **Many soon!**
 
 ---
 
